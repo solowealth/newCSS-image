@@ -1,0 +1,90 @@
+    *{
+    border: 0px;
+    margin: 0px;
+}
+
+.container{  /* This is the styling for the Doggy picture */
+    background-image: url(./depositphotos_138684600-free-stock-illustration-seamless-pattern-sweets-pastries-cakes.png); 
+    background-repeat: no-repeat;
+    height: 25rem;
+    background-position: center;
+    background-size: 90%;
+    margin-top: 10px;
+}
+
+h3{
+    color: rgba(0, 0, 0, 0.676);
+    font-weight: bold;
+    font-size: 3rem;
+
+}
+
+p{
+    color: rgba(0, 0, 0, 0.676);
+    font-weight: lighter;
+    font-size: 2rem;
+}
+
+.intro{
+    padding: 7rem;
+}
+
+.form{
+    text-align: left;
+    margin-left: 80px;
+    margin-top: 20px;
+
+}
+
+#name{
+    color: blueviolet;
+    font-size: 15px;
+    font-family: sans-serif;
+}
+#email{
+    color: blueviolet;
+    font-size: 15px;
+    font-family: sans-serif; 
+}
+
+#password{
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+
+#get-started{
+    color: white;
+    background-color: blueviolet;
+    height: 70px;
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
+
+input{
+    width: 93%;
+    outline-style: none;
+    border-bottom: 2px solid blueviolet;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+
+button{
+    width: 93%;
+    border-radius: 5px;
+    text
+}
+.footer{
+    text-align: center;
+}
+
+#signing-up{
+    color: grey;
+    font-size: 1.3rem;
+    padding-top: 20px;
+}
+#terms-and-conditions{
+    color: blueviolet;
+    font-size: 1.3rem;
+    margin-top: 5px;
+}
